@@ -1,0 +1,8 @@
+void precise(float a, float b)
+{
+    //perform a/b
+    float s=a/b;
+    cout<<s<<" "<<setprecision(3)<<fixed<<s<<endl;
+    
+    cout<<endl;
+}
