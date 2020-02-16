@@ -1,0 +1,6 @@
+void logicOp(int a, int b)
+{
+    /*output (a&&b), (a||b), and separated by spaces*/ 
+    cout<<int(a&&b)<<" "<<int(a||b)<<" "<<int(((!a)&&(!b)));
+    cout<<endl;
+}
