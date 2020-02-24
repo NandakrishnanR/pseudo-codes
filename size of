@@ -10,7 +10,6 @@ void dataTypes(int a, float b, double c, long long l, string d){
     
     cout <<sizeof(p)<<" "<<sizeof(q)<<" "<<sizeof(r)<<" "<<sizeof(m) << endl;
     
-   // cout <<sizeof(q)  << endl;
-   // cout <<sizeof(r)  << endl;
+   
     cout <<sizeof(d)<<" "<<sizeof(d[3])  << endl;
     }
