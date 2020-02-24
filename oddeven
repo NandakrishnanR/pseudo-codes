@@ -7,3 +7,6 @@ void evenOdd(int a, int b){
     else if(b%2==0)
      cout<<b<<endl<<a;
     cout<<endl;
+     else
+     cout<<"error";
+     }
